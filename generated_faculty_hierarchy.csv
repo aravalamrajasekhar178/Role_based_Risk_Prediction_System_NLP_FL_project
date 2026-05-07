@@ -1,0 +1,4 @@
+faculty_id,faculty_name,department,reports_to,role
+F001,Prof. Ada Lovelace,CSE,hod,faculty
+F002,Prof. Grace Hopper,CSE,hod,faculty
+F003,Prof. John von Neumann,CSE,hod,faculty
